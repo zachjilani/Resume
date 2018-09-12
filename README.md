@@ -1,4 +1,4 @@
-## *Zach Jilani*
+## Zach Jilani
 
 ### Contact Info: 
 [zach.jilani1@gmail.com](zach.jilani1@gmail.com)
