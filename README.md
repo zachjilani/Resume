@@ -5,7 +5,7 @@
 
 ### Education:
 **Mira Costa College**: Fall 2016 - Current
-- Computer Science major
+- Computer Science Major
 
 ### Language and OS:
 - Java
@@ -13,3 +13,4 @@
 - Swift
 - Mac OSX
 - Windows
+
